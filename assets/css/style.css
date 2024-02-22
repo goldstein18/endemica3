@@ -3602,6 +3602,7 @@ h2.woocommerce-order-details__title
   .woocommerce-account .woocommerce-MyAccount-content { 
     width: 75%;
   }
+ 
 }
 /* my account css */
 nav.woocommerce-MyAccount-navigation ul {
@@ -13047,6 +13048,9 @@ onath adn blog css
     .onath-header-top {
        /* display: none; */
     }
+    #image-mobile-edit {
+        max-width: none !important;
+    }
 .top-right-menu ul.social-icons li {
     margin-left: 13px;
 }
@@ -14052,6 +14056,7 @@ table#wp-calendar td#today a{
 	.witrscontainer {
     max-width: 1430px;
 }
+
 }
 .witrscontainer {
     width: 100%;
@@ -15256,3 +15261,4 @@ width: 121px;
 .w_btn2, .btn {
     font-family: 'fig';
 }
+
