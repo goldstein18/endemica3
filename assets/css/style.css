@@ -15267,7 +15267,7 @@ width: 121px;
 @media only screen and (max-width: 767px) {
     /* Estilos para dispositivos móviles */
     #home-image {
-        border:2px solid red;
+     
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -15276,7 +15276,7 @@ width: 121px;
         
       }
       #home-image img {
-        border:2px solid greenyellow;
+      
         width: 100%;
       }
   }
