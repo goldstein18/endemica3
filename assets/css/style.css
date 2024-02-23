@@ -13048,6 +13048,8 @@ onath adn blog css
     .onath-header-top {
        /* display: none; */
     }
+   
+     
     #image-mobile-edit {
         max-width: none !important;
     }
@@ -15261,4 +15263,16 @@ width: 121px;
 .w_btn2, .btn {
     font-family: 'fig';
 }
+
+@media only screen and (max-width: 767px) {
+    /* Estilos para dispositivos móviles */
+    #home-image {
+        border:2px solid red;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+  }
+
 
